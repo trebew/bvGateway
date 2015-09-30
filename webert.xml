@@ -1,0 +1,44 @@
+<house name="Webert Brito">
+	<pavimento name="Pav. Inferior" num="0">
+		<room num="1" name="Home Cinema">
+			<circuito num="1" mod_id="1" channel="1">Sanca</circuito>
+			<circuito num="2" mod_id="1" channel="2">Dicroica Sofa</circuito>
+			<circuito num="3" mod_id="1" channel="3">Dicroica TV</circuito>
+		</room>
+		<room num="2" name="Sala Estar">
+			<circuito num="4" mod_id="1" channel="4">Central</circuito>
+			<circuito num="5" mod_id="1" channel="5">Dicroica Centro</circuito>
+			<circuito num="6" mod_id="1" channel="6">Arandela</circuito>
+			<circuito num="7" mod_id="1" channel="7">Balizador</circuito>
+		</room>
+		<room num="3" name="Sala Jantar">
+			<circuito num="8" mod_id="1" channel="8">Mesa Dicroica</circuito>
+			<circuito num="9" mod_id="2" channel="1">Mesa Lustre</circuito>
+			<circuito num="10" mod_id="2" channel="2">Sanca</circuito>
+			<circuito num="11" mod_id="2" channel="3">Dicroicas Laterais</circuito>
+		</room>
+		<room num="4" name="Cozinha">
+			<circuito num="12" mod_id="2" channel="4">Central Teto</circuito>
+			<circuito num="13" mod_id="2" channel="5">Bancada</circuito>
+			<circuito num="14" mod_id="2" channel="6">Fogao</circuito>
+		</room>
+	</pavimento>
+	<pavimento name="Pav. Superior" num="1">
+		<room num="7" name="Suíte Master">
+			<circuito num="15" mod_id="2" channel="7">Central</circuito>
+			<circuito num="16" mod_id="2" channel="8">Sanca</circuito>
+			<circuito num="17" mod_id="3" channel="1">Arandela Cama</circuito>
+			<circuito num="18" mod_id="3" channel="2">Dicroicas Laterais</circuito>
+			<circuito num="19" mod_id="3" channel="3">Balizadores</circuito>
+		</room>
+		<room num="8" name="Banho Master">
+			<circuito num="20" mod_id="3" channel="4">Central</circuito>
+			<circuito num="21" mod_id="3" channel="5">Arandela Cabeceira</circuito>
+			<circuito num="22" mod_id="3" channel="6">Balizadores</circuito>
+		</room>
+		<room num="9" name="Suíte Filho">
+			<circuito num="23" mod_id="3" channel="7">Sanca</circuito>
+			<circuito num="24" mod_id="3" channel="8">Balizadores</circuito>
+		</room>
+	</pavimento>
+</house>
